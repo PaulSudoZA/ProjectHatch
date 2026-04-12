@@ -165,7 +165,7 @@ Issues and PRs welcome! See CONTRIBUTING.md
 
 ## License
 
-MIT License - see LICENSE file
+AGPLV3 License - see LICENSE file
 
 Copyright (c) 2024 Paul Sudo
 
