@@ -143,7 +143,7 @@ ProjectHatch exists so that someone with:
 
 ## Disclaimer
 
-⚖️ This is experimental software provided "as-is" under the MIT License.
+⚖️ This is experimental software provided "as-is" under the AGPLv3 License.
 
 - No warranty or guarantees
 - May incur API costs (you control budget)
