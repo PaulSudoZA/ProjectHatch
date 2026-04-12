@@ -1,0 +1,17 @@
+# ProjectHatch Dependencies
+
+# Cloud APIs (optional)
+openai>=1.0.0
+anthropic>=0.18.0
+google-generativeai>=0.3.0
+
+# Web scraping (optional)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Core
+Pillow>=10.0.0  # For image handling
+
+# Future features (not needed for v0.1)
+# flask>=3.0.0  # Web UI
+# python-telegram-bot>=20.0  # Telegram bot

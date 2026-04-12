@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ProjectHatch specific
+.projecthatch/
+config.json
+*.db
+*.sqlite
+*.log
+
+# API Keys - NEVER COMMIT THESE
+.env
+secrets.json
+api_keys.json
+
+# User data
+user_data/
+chat_history/
+tools/*.py
+!tools/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

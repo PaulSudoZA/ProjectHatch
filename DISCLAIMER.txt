@@ -1,0 +1,25 @@
+ProjectHatch – Experimental Software Disclaimer
+
+Copyright (c) 2026 Paul Sudo
+
+This software is experimental and provided "as-is", without warranty of any kind.
+
+By using this software, you acknowledge and agree:
+
+- No Warranty: This software is provided without guarantees of correctness, stability, or fitness for any purpose.
+
+- No Liability: The author(s) are not responsible for any damages, data loss, financial costs, or other consequences resulting from use.
+
+- API Costs: This software may interact with third-party APIs (e.g. OpenAI, Anthropic, Google) which may incur charges. You are solely responsible for all costs.
+
+- Code Execution: This software may generate or execute code. You are responsible for reviewing all outputs before running them.
+
+- File Operations: The software may create, modify, or delete files only with user permission. Always maintain backups.
+
+- Experimental Nature: Expect bugs, incomplete features, and breaking changes.
+
+- No Support: This project is community-driven with no official support guarantees.
+
+- Full Responsibility: You assume all responsibility for how this software is used and its outcomes.
+
+If you do not agree with these terms, do not use this software.
