@@ -1,4 +1,4 @@
-# 🐣 ProjectHatch
+# ProjectHatch
 
 > Your AI that learns what you need, builds what you don't have.
 
